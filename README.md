@@ -225,6 +225,6 @@ a code friendly way in `BalikoBoxy.json`
 
 ### BTW
 
-Longest Address Length: 44
+Longest Address Length: 44 Characters Long
 
-Longest Name Length:   41
+Longest Name Length:   41 Characters Long
