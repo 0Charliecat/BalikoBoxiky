@@ -222,3 +222,9 @@ a code friendly way in `BalikoBoxy.json`
     • BalíkoBOX Kaufland, Vysokoškolákov  **[Vysokoškolákov 8083/37 | 012 94]**  - [Open up in Apple Maps](https://maps.apple.com/?ll=49.212330,18.755996&lsp=7618&q=Bal%C3%ADkoBOX%20Kaufland,%20Vysoko%C5%A1kol%C3%A1kov)
     • BalíkoBOX LIDL, Kysucká  **[Kysucká 8480/27 | 012 92]**  - [Open up in Apple Maps](https://maps.apple.com/?ll=49.229238,18.739413&lsp=7618&q=Bal%C3%ADkoBOX%20LIDL,%20Kysuck%C3%A1)
 ```
+
+### BTW
+
+Longest Street Length: 44
+
+Longest Name Length:   41
