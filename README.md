@@ -4,6 +4,10 @@ Scraped from **Slovenska Posta**
 
 a code friendly way in `BalikoBoxy.json`
 
+
+![image](https://user-images.githubusercontent.com/50016870/147985058-22f5d48d-d013-4e4e-a136-d4e712e13471.png)
+
+
 ```
 ┌- **Bánovce nad Bebravou** 
 │   • BalíkoBOX LIDL, Svätoplukova ** [Svätoplukova 1661/1 | 959 91]**  - [Open up in Apple Maps](https://maps.apple.com/?ll=48.726301,18.252219&lsp=7618&q=Bal%C3%ADkoBOX%20LIDL,%20Sv%C3%A4toplukova)
