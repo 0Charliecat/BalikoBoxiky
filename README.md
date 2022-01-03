@@ -225,6 +225,6 @@ a code friendly way in `BalikoBoxy.json`
 
 ### BTW
 
-Longest Street Length: 44
+Longest Address Length: 44
 
 Longest Name Length:   41
